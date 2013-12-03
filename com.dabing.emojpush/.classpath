@@ -4,5 +4,8 @@
 	<classpathentry kind="src" path="gen"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
 	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/MiPush_SDK_Sever_1_2.jar"/>
+	<classpathentry kind="lib" path="libs/AppOffer_1.8.8_xunroudabing.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
